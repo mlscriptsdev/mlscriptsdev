@@ -1,14 +1,14 @@
 ```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║                   🎮 FiveM Developer | AI-Powered Scripts 🤖                ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+                                         ╔══════════════════════════════════════════════════════════════════════════════╗
+                                         ║                                                                              ║
+                                         ║                             🎮 FiveM Developer 🤖                           ║
+                                         ║                                                                              ║
+                                         ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
 
-### 💡 **Crafting Intelligent FiveM Solutions with AI**
+### 💡 **Crafting Intelligent FiveM Solutions**
 
 *Building next-generation roleplay scripts and resources powered by artificial intelligence*
 
