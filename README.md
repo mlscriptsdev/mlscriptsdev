@@ -1,19 +1,16 @@
 ```
-                             ╔══════════════════════════════════════════════════════════════════════════════╗
-                             ║                                                                              ║ 
-                             ║                             🎮 FiveM Developer 🤖                           ║
-                             ║                                                                              ║
-                             ╚══════════════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║                   🎮 FiveM Developer | AI-Powered Scripts 🤖                ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
 
-### 💡 **Crafting Intelligent FiveM Solutions**
+### 💡 **Crafting Intelligent FiveM Solutions with AI**
 
 *Building next-generation roleplay scripts and resources powered by artificial intelligence*
-
-[![Profile Views](https://komarev.com/ghpvc/?username=mlscriptsdev&color=0891b2&style=flat-square)](https://github.com/mlscriptsdev)
-[![GitHub Followers](https://img.shields.io/github/followers/mlscriptsdev?style=social)](https://github.com/mlscriptsdev?tab=followers)
 
 </div>
 
@@ -65,6 +62,17 @@ Hi! I'm an innovative **FiveM Developer** specializing in creating intelligent, 
 
 ---
 
+## 📊 Simple Stats
+
+| 📈 | 📊 |
+|-------|-------|
+| **Repositories** | Coming Soon 🚀 |
+| **Focus Area** | FiveM + AI 🤖 |
+| **Expertise** | Script Development 💻 |
+| **Status** | Open for Collaboration 🤝 |
+
+---
+
 ## 🎯 What I Do
 
 ### 📱 Custom Scripts & Resources
@@ -90,18 +98,6 @@ Hi! I'm an innovative **FiveM Developer** specializing in creating intelligent, 
 - Comprehensive setup guides
 - Regular updates and maintenance
 - Community support
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![mlscriptsdev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mlscriptsdev&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mlscriptsdev&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
